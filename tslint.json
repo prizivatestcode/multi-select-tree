@@ -1,0 +1,15 @@
+{
+	"extends": [
+		"tslint:recommended"
+  ],
+  "rules": {
+    "object-literal-sort-keys": false,
+    "quotemark": [true, "single", "jsx-double"],
+    "ordered-imports": false,
+    "no-empty": false,
+    "interface-over-type-literal": false,
+    "space-before-function-paren": false,
+    "member-ordering": false,
+    "arrow-parens": [true, "ban-single-arg-parens"]
+  }
+}
